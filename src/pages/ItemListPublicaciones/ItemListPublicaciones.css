@@ -1,0 +1,4 @@
+.contenedorPublicaciones{
+    display: flex;
+    flex-wrap: wrap
+}

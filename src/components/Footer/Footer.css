@@ -1,0 +1,25 @@
+.boxItems{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fafafa;
+    border-radius: 0.75rem;
+    font-size: 20px;
+}
+
+.social{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.boxItems{
+    margin-top: 50px;
+}
+
+.container-flex{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

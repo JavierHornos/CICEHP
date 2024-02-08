@@ -1,0 +1,4 @@
+.contenedorActividades{
+    display: flex;
+    flex-wrap: wrap
+}

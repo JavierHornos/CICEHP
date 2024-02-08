@@ -1,0 +1,26 @@
+.imgLogo {
+    margin-top: 1rem;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    width: 14rem;
+    padding-left: 5px;
+    cursor: pointer;
+}
+
+.imgLogo {
+    will-change: filter;
+    transition: filter 300ms;
+  }
+  .imgLogo:hover {
+    filter: drop-shadow(0 0 2em #f06122  );
+  }
+
+
+  .logoBoton{
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    gap: 2rem;
+
+}
